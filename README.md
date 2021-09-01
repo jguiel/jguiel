@@ -3,5 +3,8 @@ Ex-Biology IB teacher, current biotech lab technologist, wannabe bioinformaticia
 
 *Reach me at jfguiel@gmail.com*
 
+## Experience in
+Python3, Pandas, Jupyter, Beautiful Soup, NumPy, MatPlotLib, Bash, CLI
+
 ## Currently learning
-Python, R, Bash/Unix, Data Science Packages, Jupyter
+R, SQL, Bioinformatics (Rosalind exercises), Computer Science Theory
