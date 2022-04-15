@@ -1,5 +1,6 @@
 # Justin Guiel
 Ex IB-Biology teacher & sequencing lab tech
+
 Current software engineer in production bioinformatics specialiing in data infrastructure and mgmt
 
 *Reach me at jfguiel@gmail.com*
