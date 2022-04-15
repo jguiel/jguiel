@@ -1,11 +1,10 @@
 # Justin Guiel
-Ex IB-Biology teacher, current biotech lab technologist, soon-to-be LIMS Developer, wannabe bioinformatician and data scientist!
+Ex IB-Biology teacher & sequencing lab tech
+Current software engineer in production bioinformatics specialiing in data infrastructure and mgmt
 
 *Reach me at jfguiel@gmail.com*
 
-## Experience in
-Python3, SQL (Beginner), Bash/Unix (Beginner)
-Pandas, Jupyter, Beautiful Soup, NumPy, MatPlotLib
+## I speak
+python3, mysql, postgres, JS, bash, djangoORM, aws, \*nix
 
-## Currently learning
-Java, Bioinformatics (Rosalind exercises), Computer Science Theory
+## This GH account is neglected in lieu of work account ¯\_(ツ)_/¯
