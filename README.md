@@ -1,12 +1,15 @@
 # Justin Guiel
+Software engineer in production bioinformatics specializing in data infrastructure and management
+
 Ex IB-Biology teacher & sequencing lab tech
 
-Current software engineer in production bioinformatics specializing in data infrastructure and mgmt
+
+Disclaimer: This GH account is old pet-projects before I started as a software engineer, and neglected in lieu of work account
 
 *Reach me at jfguiel@gmail.com*
 
-## I speak
+## I Speak
+Python, Linux, Big Data, AWS, MySQL, PostgreSQL, MongoDB, Bash/shell, DjangoORM, and light amounts of JavaScript, HTML, and CSS
 
-python3, mysql, postgres, JS, bash, djangoORM, aws, \*nix
-
-This GH account is old pet-projects when i was learning, and neglected in lieu of work account ¯\_(ツ)_/¯
+## Currently learning
+Rust, R
