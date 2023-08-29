@@ -1,5 +1,5 @@
 # Justin Guiel
-My educational and research backgrounds are strictly biology with heavy focus on molecular genetics and microbiology. I have a data, cloud, and software engineer professionally since early 2021. I have been consistently teaching myself compsci over the past 3+ years through textbooks, projects, and resources like MIT's OCW. My desire to learn more has only grown stronger.
+My educational and research backgrounds are strictly biology with heavy focus on molecular genetics and microbiology. I have been a data, cloud, and software engineer professionally since early 2021. I have been consistently teaching myself compsci over the past 3+ years through textbooks, projects, and resources like MIT's OCW. My desire to learn more has only grown stronger.
 
 ## Currently
 - Contributer for Transcriptic's Autoprotocol library as engineer
