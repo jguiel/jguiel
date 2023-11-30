@@ -1,19 +1,19 @@
 # Justin Guiel
-My educational and research backgrounds are strictly biology with heavy focus on molecular genetics and microbiology. I have been a data, cloud, and software engineer professionally since early 2021. I have been consistently teaching myself compsci over the past 3+ years through textbooks, projects, and resources like MIT's OCW. My desire to learn more has only grown stronger.
+Background of molecular genetics and microbiology.
+Professional systems/data/software engineer in bioinformatics
 
 ## Currently
-- Contributer for Transcriptic's Autoprotocol library as engineer
-- Scientific Computing SWE developing lab automation workflows for small molecule/drug discovery
-
+- Software systems engineer in bioinformatics research & development for rare disease
+- Docent @ San Francisco Conservatory of Flowers & Botanical Gardens
+- STEMCorps Mentor @ CuriOdyssey 
+  
 ## Previously
-- Precision medicine data infrastructure and mgmt engineer
-- Post-analysis data processing pipelines, production bioinformatics ops
-- Cloud infrastructure (AWS)
-- ETL pipelines (AWS)
-- Linux server data management, migrate on-prem to cloud
-- NGS Illumina Sequencing, whole-exome/transcriptome on NovaSeq
+- Scientific computing engineer for automated lab workflows
+- Data infrastructure & Management software engineer in precision medicine
+- Post and pre-analytical data processing pipelines for production bioinformatics operations
+- Next Gen Sequencing, NovaSeq WES/WGS
 - MALDI-TOF Sequencing for SNP analysis
-- Teacher: IB & GCSE Biology, USHS chemistry, USHS math
+- Highschool IB & GCSE Biology, chemistry, math teacher
 
 *Reach me at jfguiel@gmail.com*
 
@@ -21,10 +21,9 @@ My educational and research backgrounds are strictly biology with heavy focus on
 Python, AWS, SQL, Bash/shell, DjangoORM, genetics, server mgmt, Linux/Unix env, data transformation, NoSQL, lab automation, and front-end
 
 ## Currently learning
-- JavaScript
-- Apache Airflow
 - Rust
+- Adobe LightRoom & Photoshop
 
 ## Currently Reading
-- Server Load Balancing - Tony Bourke, O'Reilly
 - The Rust Programming Language - Steve Klabnik and Carol Nichols
+- Lord of the Rings
